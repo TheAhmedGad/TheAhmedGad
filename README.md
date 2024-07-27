@@ -1,10 +1,3 @@
-# Modules
-* [ ] Core
-* [ ] Users
-* [ ] Categories
-* [ ] Products
-
-
 # Hi, I'm Ahmed Gad 👋
 
 ## Software Engineer
